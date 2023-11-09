@@ -1,0 +1,46 @@
+.nav-top{
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+}
+
+h1{
+    display: inline-flex;
+    align-items: center;
+}
+
+.btn-content{
+    display: flex;
+    height: 60px;
+    background-color: white;
+    gap: 0.8rem;
+    margin-right: 20px;
+    align-items: center;
+}
+
+.in {
+    border: 1px solid;
+    border-radius: 15px;
+    width: 70px;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+
+}
+
+.up {
+    border-radius: 15px;
+    width: 70px;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    background-color: purple;
+    color: white;
+}
+
+
+.searchBar {
+    margin: 10px 0 10px 10px;
+
+}
